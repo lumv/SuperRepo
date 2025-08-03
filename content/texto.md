@@ -1,6 +1,6 @@
 ---
 title: Prueba de formato
-draft:
+draft: false
 ---
 Esta es su nueva *bóveda*.
 
