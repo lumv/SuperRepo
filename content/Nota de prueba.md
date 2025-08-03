@@ -8,3 +8,4 @@ tags:
 hola mundo
 - Aguante ==boca==!!
 - [[Conexión de Prueba]]
+- Vista con tipos de [[texto]]
